@@ -1,5 +1,5 @@
 {
-  error: {
-    error: "Sample error"
+  "error": {
+    "error": "Sample error"
   }
 }
